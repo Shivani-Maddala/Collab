@@ -1,2 +1,2 @@
-# Collab
--
+# Project
+project for GDG solutions
